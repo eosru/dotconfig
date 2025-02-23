@@ -1,1 +1,3 @@
 # dotconfig
+
+alacritty/alacritty.toml
